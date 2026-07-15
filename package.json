@@ -1,0 +1,16 @@
+{
+  "name": "hopx-telegram-bot",
+  "version": "2.3.0",
+  "description": "HopX Telegram Bot v2.3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "@hopx-ai/sdk": "latest",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
+
